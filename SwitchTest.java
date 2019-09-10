@@ -18,7 +18,7 @@ public class SwitchTest {
 	     String baseURL = "https://www.fieldglass.com/";
 	     driver.get(baseURL);
 	         
-	     driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	     
 	    
 	     driver.findElement(By.xpath("//a[@href='https://www.fieldglass.net/']")).click();
