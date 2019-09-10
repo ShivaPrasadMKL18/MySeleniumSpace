@@ -20,7 +20,7 @@ public class METest {
 		
 		WebElement touch = driver.findElement(By.name("email"));
 		touch.click();
-		touch.sendKeys("Hello");
+		touch.sendKeys("Hello world");
 		Thread.sleep(5);
 		
 		
