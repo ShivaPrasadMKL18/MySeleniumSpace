@@ -30,6 +30,12 @@ public class SwitchTest {
 	     */
 	         
 	     driver.close();
+		 
+		 
+		 
+		 
+		 
+		 //........
 	  
 	}
 
