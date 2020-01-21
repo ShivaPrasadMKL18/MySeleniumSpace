@@ -20,6 +20,9 @@ public class StoreFront {
 		  store.click();
 		  store.sendKeys("shiva.prasad@citrix.com");
 		  driver.findElement(By.xpath("//a[@id='loginBtn']"));
+
+//alfjldksajf
+//klsdjfkldsjf
 		  
 	  }
 
